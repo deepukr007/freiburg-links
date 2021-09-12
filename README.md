@@ -1,4 +1,7 @@
-freiburg-links
+Freiburg-links
+
+https://nifty-haibt-72298b.netlify.app/
+
 Web-app which contains all the links related to university of Freiburg and German studies
 
 Feel free to add links in the below google sheets ,
