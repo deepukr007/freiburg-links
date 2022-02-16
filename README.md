@@ -1,6 +1,6 @@
 Freiburg-links
 
-https://nifty-haibt-72298b.netlify.app/
+https://unifreiburg-imp-links.netlify.app/
 
 Web-app which contains all the links related to university of Freiburg and German studies
 
